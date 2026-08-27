@@ -58,11 +58,7 @@ I'm a student passionate about **Artificial Intelligence, Machine Learning, and 
 
 ---
 
-## 📊 GitHub Stats
-
-![Ayaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaan-2008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan-2008&layout=compact&theme=tokyonight&hide_border=true)
+## 📊 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayaan-2008&theme=tokyonight&hide_border=true)
 
