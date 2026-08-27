@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28826084/README.md)
 <div align="center">
 
 # Hey, I'm Ayaan 👋
@@ -49,11 +48,13 @@ I'm a student passionate about **Artificial Intelligence, Machine Learning, and 
 | Project | Description | Tech |
 |---|---|---|
 | [ML-Powered-Multi-Agent-AI-Assistant](https://github.com/ayaan-2008/ML-Powered-Multi-Agent-AI-Assistant) | Desktop AI assistant with web search, OCR, camera, calculator & more | Python |
-| [IntelliSort_AI](https://github.com/ayaan-2008/IntelliSort_AI) | AI-powered intelligent sorting system | Python |
-| [EmotionDetection_AI](https://github.com/ayaan-2008/EmotionDetection_AI) | Real-time facial emotion detection using computer vision | Python |
-| [Dynamic-Command-Execution-Automation-System](https://github.com/ayaan-2008/Dynamic-Command-Execution-Automation-System) | Automated command execution and task management system | Python |
-| [machine_learning_codes](https://github.com/ayaan-2008/machine_learning_codes) | Collection of ML algorithms and experiments | Python |
-| [Artificial_intelligence_codes](https://github.com/ayaan-2008/Artificial_intelligence_codes) | AI implementations and explorations | Python |
+| [IntelliSort_AI](https://github.com/ayaan-2008/IntelliSort_AI) | AI-powered intelligent file sorting system | Python |
+| [EmotionDetection_AI](https://github.com/ayaan-2008/EmotionDetection_AI) | Real-time emotion detection using sentiment analysis | Python |
+| [AI-research-Agent](https://github.com/ayaan-2008/AI-research-Agent) | AI-powered research agent for automated information gathering | Python |
+| [machine_learning_codes](https://github.com/ayaan-2008/machine_learning_codes) | Collection of ML algorithms - supervised, unsupervised & reinforcement learning | Python |
+| [Artificial_intelligence_codes](https://github.com/ayaan-2008/Artificial_intelligence_codes) | AI implementations including chatbots, assistants & NLP | Python |
+| [RAG_assistant__](https://github.com/ayaan-2008/RAG_assistant__) | RAG-based local PDF question answering system with Ollama | Python |
+| [AI-Resume-Project](https://github.com/ayaan-2008/AI-Resume-Project) | AI resume analyzer and builder with skill detection | Python |
 
 ---
 
@@ -61,9 +62,11 @@ I'm a student passionate about **Artificial Intelligence, Machine Learning, and 
 
 <div align="center">
 
-![Ayaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaan-2008&show_icons=true&theme=tokyonight&hide_border=true)
+![Ayaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaan-2008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan-2008&layout=compact&theme=tokyonight&hide_border=true)
+
+![Ayaan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayaan-2008&theme=tokyonight&hide_border=true)
 
 </div>
 
